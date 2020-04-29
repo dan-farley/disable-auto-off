@@ -4,7 +4,7 @@ I know a lot of people have complained about the auto-off feature on the Cloud F
 
 I haven't tested this with other headset brands but I imagine it would work with other brands that use the same method of turning off based on it not detecting any audio being sent through the headphones.
 
-Their dev team has already made it clear that they don't plan on developing anything to prevent it, but maybe the hardware in the headset causing it physically can't be disabled.  This app I built just simply plays an extremely quiet, in-audible sound that makes the headset think audio is being sent through. **The only limitation here is the headphones cant be muted, otherwise the audio isn't sent.**
+Their dev team has already made it clear that they don't plan on developing anything to prevent it, but maybe the hardware in the headset causing it physically can't be disabled.  This app I built just simply plays an extremely quiet, in-audible sound that makes the headset think audio is being sent through. **The only limitation here is the headphones cant be muted, otherwise the audio isn't sent and they will automatically turn off.**
 
 This seems like something HyperX could fairly simply implement into their own software with an on/off toggle.  If it is a hardware limitation stopping them from disabling the auto-off feature then this is a super simple workaround to implement for the people that do want a choice of having their headset always on.
 
