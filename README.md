@@ -8,7 +8,7 @@ This seems like something HyperX could fairly simply implement into their own so
 
 I only complied this for Windows but if interest is shown for the MacOS community I can get that setup as well. Just create an issue report if so.
 
-I used Pythong to build this very simple app with the help of the PlaySound plugin for playing the sound (https://github.com/TaylorSMarks/playsound)
+I used Python to build this very simple app with the help of the PlaySound plugin for playing the sound and Tendo for making sure only one instance of the app can open at once.
 
 
 ### Install Instructions
