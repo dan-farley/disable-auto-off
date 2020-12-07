@@ -17,3 +17,7 @@ Go to your `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` folder and 
 
 ### Ending the application
 Open your task manager, go to the details tab, and press "End Task" on the disable-auto-off.exe process.
+
+
+## Future ideas:
+- Make it un-mute the volume automatically (the headset doesn't receive any sound if the volume is 0 so it turns off)
